@@ -1,0 +1,1 @@
+some thing in fout.txt line one
