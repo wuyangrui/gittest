@@ -1,2 +1,2 @@
-this is  a new test
+this is  a new test dev conflict
 this the second line  add some thine in the end
